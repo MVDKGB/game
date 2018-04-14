@@ -1,0 +1,27 @@
+body {
+    
+}
+
+canvas {
+    background-color:black;
+    border:3px solid grey;
+}
+#right {
+    position: fixed;
+    left:200px;
+    top:330px;
+    width:50px;
+    height:50px;
+    border-radius:15px;
+    background-color:lightblue;
+}
+
+#left {
+    position: fixed;
+    left:80px;
+    top:330px;
+    width:50px;
+    height:50px;
+    border-radius:15px;
+    background-color:lightblue;
+}
